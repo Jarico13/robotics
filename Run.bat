@@ -1,0 +1,1 @@
+C:\Users\user\AppData\Local\Programs\UiPath\Studio\UiRobot.exe -file "C:\Users\user\Documents\UiPath\Borjomi\main.xaml"

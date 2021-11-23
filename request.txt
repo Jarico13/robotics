@@ -1,0 +1,532 @@
+<!doctype html>
+<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Бизиборды - купить в интернет-магазине в СПб</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Большой выбор бизибордов в интернет-магазине Beezy Baby с бесплатной доставкой по Санкт-Петербургу."/>
+<link rel="canonical" href="https://detishop.ru/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Бизиборды - купить в интернет-магазине в СПб" />
+<meta property="og:description" content="Большой выбор бизибордов в интернет-магазине Beezy Baby с бесплатной доставкой по Санкт-Петербургу." />
+<meta property="og:url" content="https://detishop.ru/" />
+<meta property="og:site_name" content="Beezybaby" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Большой выбор бизибордов в интернет-магазине Beezy Baby с бесплатной доставкой по Санкт-Петербургу." />
+<meta name="twitter:title" content="Бизиборды - купить в интернет-магазине в СПб" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://detishop.ru/#organization","name":"\u0411\u0438\u0437\u0438\u0431\u043e\u0440\u0434\u044b - \u041a\u0443\u043f\u0438\u0442\u044c \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0432 \u0421\u041f\u0411","url":"https://detishop.ru/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://detishop.ru/#logo","url":"https://detishop.ru/app/uploads/2018/12/logo.png","caption":"\u0411\u0438\u0437\u0438\u0431\u043e\u0440\u0434\u044b - \u041a\u0443\u043f\u0438\u0442\u044c \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0432 \u0421\u041f\u0411"},"image":{"@id":"https://detishop.ru/#logo"}},{"@type":"WebSite","@id":"https://detishop.ru/#website","url":"https://detishop.ru/","name":"Beezybaby","publisher":{"@id":"https://detishop.ru/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://detishop.ru/search/{search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://detishop.ru/#webpage","url":"https://detishop.ru/","inLanguage":"ru-RU","name":"\u0411\u0438\u0437\u0438\u0431\u043e\u0440\u0434\u044b - \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0432 \u0421\u041f\u0431","isPartOf":{"@id":"https://detishop.ru/#website"},"about":{"@id":"https://detishop.ru/#organization"},"datePublished":"2018-12-13T15:02:07+00:00","dateModified":"2020-12-24T19:28:48+00:00","description":"\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0432\u044b\u0431\u043e\u0440 \u0431\u0438\u0437\u0438\u0431\u043e\u0440\u0434\u043e\u0432 \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 Beezy Baby \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u043f\u043e \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0443."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel="stylesheet" href="/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1">
+<link rel="stylesheet" href="/app/plugins/woocommerce/assets/css/blocks/style.css?ver=3.6.2">
+<link rel="stylesheet" href="/app/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1">
+<link rel="stylesheet" href="/app/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.12">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/app/plugins/woocommerce-ajax-cart/assets/wooajaxcart.css?ver=5.1.1">
+<link rel="stylesheet" href="/app/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.6.2">
+<link rel="stylesheet" href="/app/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.6.2" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" href="/app/plugins/woocommerce/assets/css/woocommerce.css?ver=3.6.2">
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" href="/app/plugins/woocommerce-quantity-increment/assets/css/wc-quantity-increment.css?ver=5.1.1">
+<link rel="stylesheet" href="/app/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=1.12.0">
+<link rel="stylesheet" href="/app/themes/trendbuuuzy/dist/styles/main_229464a7.css">
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script>(window.jQuery && jQuery.noConflict()) || document.write('<script src="/wp/wp-includes/js/jquery/jquery.js"><\/script>')</script>
+<script src="/app/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script src="/app/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="/app/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.6.2"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_country_select_params = {"countries":"[]","i18n_select_state_text":"\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u2026","i18n_no_matches":"\u0421\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0439 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e","i18n_ajax_error":"\u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438","i18n_input_too_short_1":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 1 \u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432","i18n_input_too_short_n":"\u041d\u0443\u0436\u043d\u043e \u0432\u0432\u0435\u0441\u0442\u0438 \u0431\u043e\u043b\u044c\u0448\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432, \u0435\u0449\u0451 \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c %qty%","i18n_input_too_long_1":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0443\u0434\u0430\u043b\u0438\u0442\u0435 1 \u0441\u0438\u043c\u0432\u043e\u043b","i18n_input_too_long_n":"\u041d\u0443\u0436\u043d\u043e \u0443\u0434\u0430\u043b\u0438\u0442\u044c \u043b\u0438\u0448\u043d\u0438\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u044b, \u0438\u0445 \u0437\u0434\u0435\u0441\u044c %qty%","i18n_selection_too_long_1":"\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043b\u0438\u0448\u044c 1 \u0432\u0430\u0440\u0438\u0430\u043d\u0442","i18n_selection_too_long_n":"\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043d\u0435 \u0431\u043e\u043b\u0435\u0435 %qty%","i18n_load_more":"\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0435\u0449\u0451\u2026","i18n_searching":"\u041f\u043e\u0438\u0441\u043a\u2026"};
+/* ]]> */
+</script>
+<script src="/app/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=3.6.2"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_address_i18n_params = {"locale":"{\"default\":{\"first_name\":{\"label\":\"\\u0418\\u043c\\u044f\",\"required\":true,\"class\":[\"form-row-first\"],\"autocomplete\":\"given-name\",\"priority\":10},\"last_name\":{\"label\":\"\\u0424\\u0430\\u043c\\u0438\\u043b\\u0438\\u044f\",\"required\":true,\"class\":[\"form-row-last\"],\"autocomplete\":\"family-name\",\"priority\":20},\"company\":{\"label\":\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u043a\\u043e\\u043c\\u043f\\u0430\\u043d\\u0438\\u0438\",\"class\":[\"form-row-wide\"],\"autocomplete\":\"organization\",\"priority\":30,\"required\":false},\"country\":{\"type\":\"country\",\"label\":\"\\u0421\\u0442\\u0440\\u0430\\u043d\\u0430\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\",\"update_totals_on_change\"],\"autocomplete\":\"country\",\"priority\":40},\"address_1\":{\"label\":\"\\u0410\\u0434\\u0440\\u0435\\u0441\",\"placeholder\":\"\\u041d\\u043e\\u043c\\u0435\\u0440 \\u0434\\u043e\\u043c\\u0430 \\u0438 \\u043d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u0443\\u043b\\u0438\\u0446\\u044b\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line1\",\"priority\":50},\"address_2\":{\"placeholder\":\"\\u041a\\u0432\\u0430\\u0440\\u0442\\u0438\\u0440\\u0430, \\u0430\\u043f\\u0430\\u0440\\u0442\\u0430\\u043c\\u0435\\u043d\\u0442\\u044b, \\u0436\\u0438\\u043b\\u043e\\u0435 \\u043f\\u043e\\u043c\\u0435\\u0449\\u0435\\u043d\\u0438\\u0435 \\u0438 \\u0442. \\u0434. (\\u043d\\u0435 \\u043e\\u0431\\u044f\\u0437\\u0430\\u0442\\u0435\\u043b\\u044c\\u043d\\u043e)\",\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line2\",\"priority\":60,\"required\":false},\"city\":{\"label\":\"\\u041d\\u0430\\u0441\\u0435\\u043b\\u0451\\u043d\\u043d\\u044b\\u0439 \\u043f\\u0443\\u043d\\u043a\\u0442\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-level2\",\"priority\":70},\"state\":{\"type\":\"state\",\"label\":\"\\u041e\\u0431\\u043b\\u0430\\u0441\\u0442\\u044c\\\/\\u0440\\u0435\\u0433\\u0438\\u043e\\u043d\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"state\"],\"autocomplete\":\"address-level1\",\"priority\":80},\"postcode\":{\"label\":\"\\u041f\\u043e\\u0447\\u0442\\u043e\\u0432\\u044b\\u0439 \\u0438\\u043d\\u0434\\u0435\\u043a\\u0441\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"postcode\"],\"autocomplete\":\"postal-code\",\"priority\":90}},\"RU\":{\"first_name\":{\"label\":\"\\u0418\\u043c\\u044f\",\"required\":true,\"class\":[\"form-row-first\"],\"autocomplete\":\"given-name\",\"priority\":10},\"last_name\":{\"label\":\"\\u0424\\u0430\\u043c\\u0438\\u043b\\u0438\\u044f\",\"required\":true,\"class\":[\"form-row-last\"],\"autocomplete\":\"family-name\",\"priority\":20},\"company\":{\"label\":\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u043a\\u043e\\u043c\\u043f\\u0430\\u043d\\u0438\\u0438\",\"class\":[\"form-row-wide\"],\"autocomplete\":\"organization\",\"priority\":30,\"required\":false},\"country\":{\"type\":\"country\",\"label\":\"\\u0421\\u0442\\u0440\\u0430\\u043d\\u0430\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\",\"update_totals_on_change\"],\"autocomplete\":\"country\",\"priority\":40},\"address_1\":{\"label\":\"\\u0410\\u0434\\u0440\\u0435\\u0441\",\"placeholder\":\"\\u041d\\u043e\\u043c\\u0435\\u0440 \\u0434\\u043e\\u043c\\u0430 \\u0438 \\u043d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u0443\\u043b\\u0438\\u0446\\u044b\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line1\",\"priority\":50},\"address_2\":{\"placeholder\":\"\\u041a\\u0432\\u0430\\u0440\\u0442\\u0438\\u0440\\u0430, \\u0430\\u043f\\u0430\\u0440\\u0442\\u0430\\u043c\\u0435\\u043d\\u0442\\u044b, \\u0436\\u0438\\u043b\\u043e\\u0435 \\u043f\\u043e\\u043c\\u0435\\u0449\\u0435\\u043d\\u0438\\u0435 \\u0438 \\u0442. \\u0434. (\\u043d\\u0435 \\u043e\\u0431\\u044f\\u0437\\u0430\\u0442\\u0435\\u043b\\u044c\\u043d\\u043e)\",\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line2\",\"priority\":60,\"required\":false},\"city\":{\"label\":\"\\u041d\\u0430\\u0441\\u0435\\u043b\\u0451\\u043d\\u043d\\u044b\\u0439 \\u043f\\u0443\\u043d\\u043a\\u0442\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-level2\",\"priority\":70},\"state\":{\"type\":\"state\",\"label\":\"\\u041e\\u0431\\u043b\\u0430\\u0441\\u0442\\u044c\\\/\\u0440\\u0435\\u0433\\u0438\\u043e\\u043d\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"state\"],\"autocomplete\":\"address-level1\",\"priority\":80},\"postcode\":{\"label\":\"\\u041f\\u043e\\u0447\\u0442\\u043e\\u0432\\u044b\\u0439 \\u0438\\u043d\\u0434\\u0435\\u043a\\u0441\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"postcode\"],\"autocomplete\":\"postal-code\",\"priority\":90}}}","locale_fields":"{\"address_1\":\"#billing_address_1_field, #shipping_address_1_field\",\"address_2\":\"#billing_address_2_field, #shipping_address_2_field\",\"state\":\"#billing_state_field, #shipping_state_field, #calc_shipping_state_field\",\"postcode\":\"#billing_postcode_field, #shipping_postcode_field, #calc_shipping_postcode_field\",\"city\":\"#billing_city_field, #shipping_city_field, #calc_shipping_city_field\"}","i18n_required_text":"\u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e","i18n_optional_text":"\u043d\u0435\u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e"};
+/* ]]> */
+</script>
+<script src="/app/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=3.6.2"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"1efb2fd0e9","apply_coupon_nonce":"76bbe140be","remove_coupon_nonce":"42affe314a"};
+/* ]]> */
+</script>
+<script src="/app/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=3.6.2"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wooajaxcart = {"updating_text":"Updating...","warn_remove_text":"Are you sure you want to remove this item from cart?","ajax_timeout":"800"};
+/* ]]> */
+</script>
+<script src="/app/plugins/woocommerce-ajax-cart/assets/wooajaxcart.js?ver=5.1.1"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){
+                wacZeroQuantityCheck = function(el_qty) {
+                    return true;
+                };
+            });
+</script>
+<script src="/app/plugins/woocommerce-quantity-increment/assets/js/wc-quantity-increment.min.js?ver=5.1.1"></script>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="/app/uploads/2019/01/cropped-favicon-32x32.gif" sizes="32x32" />
+<link rel="icon" href="/app/uploads/2019/01/cropped-favicon-192x192.gif" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/app/uploads/2019/01/cropped-favicon-180x180.gif" />
+<meta name="msapplication-TileImage" content="/app/uploads/2019/01/cropped-favicon-270x270.gif" />
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+      ym(45168537, "init", {
+           id:45168537,
+           clickmap:true,
+           trackLinks:true,
+           accurateTrackBounce:true,
+           webvisor:true
+      });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/45168537" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+</head>
+<body class="home page woocommerce-no-js tinvwl-theme-style app-data index-data singular-data page-data page-2-data page-sample-page-data front-page-data">
+<header class="banner" id="myHeader">
+  <div class="container">
+    <div class="toggle">
+      <span class="toggle__icon-menu"></span>
+    </div>
+    <a class="brand" href="https://detishop.ru/" title="Beezybaby"></a>
+    <nav class="nav-primary">
+      <div class="nav-primary__toggle-header">
+        <div class="nav-primary__toggle-header-title">Меню</div>
+        <span class="toggle__icon-close"></span>
+      </div>
+              <ul id="menu-menyu-v-shapke" class="nav"><li class="active menu-item menu-glavnaya"><a href="https://detishop.ru/" aria-current="page">Главная</a></li>
+<li class="menu-item menu-item-has-children menu-katalog"><a href="https://detishop.ru/shop/">Каталог</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-novogodnij-dekor"><a href="/novogodniy_decor/">Новогодний декор</a></li>
+	<li class="menu-item menu-dekor-dlya-detskoj"><a href="/dekor_dlya_detskoi/">Декор для детской</a></li>
+	<li class="menu-item menu-bizidomiki"><a href="/bizidomiki/">Бизидомики</a></li>
+	<li class="menu-item menu-bizibordy"><a href="/bizibordy/">Бизиборды</a></li>
+	<li class="menu-item menu-razvivayushhie-nabory"><a href="/educationalkits/">Развивающие наборы</a></li>
+</ul>
+</li>
+<li class="menu-item menu-o-kompanii"><a href="https://detishop.ru/o-kompanii/">О компании</a></li>
+<li class="menu-item menu-otzyvy"><a href="https://detishop.ru/otzyvy/">Отзывы</a></li>
+<li class="menu-item menu-blog"><a href="https://detishop.ru/blog/">Блог</a></li>
+<li class="menu-item menu-oplata-i-dostavka"><a href="https://detishop.ru/oplata-i-dostavka/">Оплата и доставка</a></li>
+<li class="menu-item menu-dlya-optovikov"><a href="https://detishop.ru/dlya-optovikov/">Для оптовиков</a></li>
+<li class="menu-item menu-kontakty"><a href="https://detishop.ru/kontakty/">Контакты</a></li>
+</ul>
+            <form role="search" method="get" class="woocommerce-product-search" action="https://detishop.ru/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-0">Искать:</label>
+	<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Поиск:" value="" name="s" />
+	<button type="submit" value="Поиск">Поиск</button>
+	<input type="hidden" name="post_type" value="product" />
+</form>
+    </nav>
+
+    <div class="ordering">
+      <a href="https://detishop.ru/wishlist/"
+   class="wishlist_products_counter top_wishlist-heart top_wishlist- no-txt wishlist-counter-with-products">
+	<span class="wishlist_products_counter_text"></span>
+			<span class="wishlist_products_counter_number"></span>
+	</a>
+      <a class="ordering-cart" href="https://detishop.ru/cart/">
+        <span
+          class="ordering-cart__count">0</span>
+      </a>
+      <a href="/my-account" class="ordering-login"></a>
+    </div>
+  </div>
+</header>
+<div class="wrap" role="document">
+  <div class="content">
+    <main class="main">
+                    <section class="front-page__carousel">
+  <div class="front-page__carousel-wrapper">
+        <div class="front-page__carousel-block">
+              <div class="front-page__carousel-block--item" style="background-image: url(/app/uploads/2020/12/2.jpg);">
+          <div class="container">
+            <h2 class="front-page__carousel-block--item-title">Развивающие игрушки BeezyBaby</h2>
+            <p class="front-page__carousel-block--item-text">Порадуйте своего ребенка интересным подарком, сделайте заказ прямо сейчас!</p>
+            <a class="front-page__carousel-block--item-btn" href="/shop">в Каталог товаров</a>
+          </div>
+        </div>
+              <div class="front-page__carousel-block--item" style="background-image: url(/app/uploads/2020/12/6.jpg);">
+          <div class="container">
+            <h2 class="front-page__carousel-block--item-title">Развивающие игрушки BeezyBaby</h2>
+            <p class="front-page__carousel-block--item-text">Порадуйте своего ребенка интересным подарком, сделайте заказ прямо сейчас!</p>
+            <a class="front-page__carousel-block--item-btn" href="/shop">в Каталог товаров</a>
+          </div>
+        </div>
+              <div class="front-page__carousel-block--item" style="background-image: url(/app/uploads/2020/12/444-kopiya.jpg);">
+          <div class="container">
+            <h2 class="front-page__carousel-block--item-title">Развивающие игрушки BeezyBaby</h2>
+            <p class="front-page__carousel-block--item-text">Порадуйте своего ребенка интересным подарком, сделайте заказ прямо сейчас!</p>
+            <a class="front-page__carousel-block--item-btn" href="/shop">в Каталог товаров</a>
+          </div>
+        </div>
+          </div>
+  </div>
+</section>
+  <section class="front-page__prefences">
+  <div class="container">
+    <div class="front-page__prefences--item">
+      <div class="front-page__prefences--item-image bag"></div>
+      <div class="front-page__prefences--item-text">
+        Надежная и качественная упаковка
+      </div>
+    </div>
+    <div class="front-page__prefences--item">
+      <div class="front-page__prefences--item-image delivery"></div>
+      <div class="front-page__prefences--item-text">
+        Бесплатная доставка по Санкт-Петербургу
+      </div>
+    </div>
+    <div class="front-page__prefences--item ">
+      <div class="front-page__prefences--item-image guarantee"></div>
+      <div class="front-page__prefences--item-text">
+        Гарантия на всю продукцию 1 год
+      </div>
+    </div>
+    <div class="front-page__prefences--item">
+      <div class="front-page__prefences--item-image design"></div>
+      <div class="front-page__prefences--item-text">
+        Эксклюзивный дизайн, уникальная технология производства
+      </div>
+    </div>
+    <div class="front-page__prefences--item ">
+      <div class="front-page__prefences--item-image material"></div>
+      <div class="front-page__prefences--item-text">
+        Только лучшие материалы. Три ступени контроля качества, отсутствие острых углов и небезопасных креплений
+      </div>
+    </div>
+    <div class="front-page__prefences--item ">
+      <div class="front-page__prefences--item-image brain"></div>
+      <div class="front-page__prefences--item-text">
+        Разработано совместно детскими психологами и педагогами-дефектологами
+      </div>
+    </div>
+    <div class="front-page__prefences--item">
+      <div class="front-page__prefences--item-image paints"></div>
+      <div class="front-page__prefences--item-text">
+        Безопасные лаки и краски
+      </div>
+    </div>
+    <div class="front-page__prefences--item">
+      <div class="front-page__prefences--item-image logic"></div>
+      <div class="front-page__prefences--item-text">
+        Развитие логики и моторики
+      </div>
+    </div>
+    <div class="front-page__prefences--item">
+      <div class="front-page__prefences--item-image world"></div>
+      <div class="front-page__prefences--item-text">
+        Лицензия мирового бренда
+      </div>
+    </div>
+  </div>
+</section>
+  <section class="front-page__related">
+  <div class="container">
+    <h2 class="front-page__related-header">Популярные товары</h2>
+    <div class="front-page__related-wrapper">
+      <div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-157 status-publish first instock product_cat-bizidomiki product_cat-shop product_tag-popular has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+  <a href="https://detishop.ru/bizibord-avtobus/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">  <div class="attachment-woocommerce_thumbnail-wrapper">
+    <span class="onsale">Распродажа!</span>
+<img width="500" height="590" src="/app/uploads/2018/12/bizibas-1-500x590.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />  </div>
+  <h2 class="woocommerce-loop-product__title">Бизиборд «Автобус»</h2><span class="price"><del><span class="woocommerce-Price-amount amount">6 900&nbsp;<span class="woocommerce-Price-currencySymbol">руб.</span></span></del> <ins><span class="woocommerce-Price-amount amount">6 210&nbsp;<span class="woocommerce-Price-currencySymbol">руб.</span></span></ins></span>
+</a><a href="/?add-to-cart=157" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="157" data-product_sku="" aria-label="Добавить &quot;Бизиборд «Автобус»&quot; в корзину" rel="nofollow">В корзину</a><div class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper">
+	<a href="javascript:void(0)" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after" data-tinv-wl-list="[]" data-tinv-wl-product="157" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow"></a>		<div class="tinvwl-tooltip">Add to Wishlist</div>
+</div>
+</li>
+<li class="product type-product post-148 status-publish instock product_cat-bizidomiki product_cat-shop product_tag-popular has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+  <a href="https://detishop.ru/domik-am-nyama/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">  <div class="attachment-woocommerce_thumbnail-wrapper">
+    <span class="onsale">Распродажа!</span>
+<img width="500" height="590" src="/app/uploads/2018/12/am-nyam-1-1-500x590.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />  </div>
+  <h2 class="woocommerce-loop-product__title">Домик «Ам-Няма»</h2><span class="price"><del><span class="woocommerce-Price-amount amount">11 900&nbsp;<span class="woocommerce-Price-currencySymbol">руб.</span></span></del> <ins><span class="woocommerce-Price-amount amount">10 710&nbsp;<span class="woocommerce-Price-currencySymbol">руб.</span></span></ins></span>
+</a><a href="/?add-to-cart=148" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="148" data-product_sku="T091" aria-label="Добавить &quot;Домик «Ам-Няма»&quot; в корзину" rel="nofollow">В корзину</a><div class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper">
+	<a href="javascript:void(0)" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after" data-tinv-wl-list="[]" data-tinv-wl-product="148" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow"></a>		<div class="tinvwl-tooltip">Add to Wishlist</div>
+</div>
+</li>
+<li class="product type-product post-142 status-publish instock product_cat-bizidomiki product_cat-shop product_tag-popular has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+  <a href="https://detishop.ru/klassicheskij-bizidom/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">  <div class="attachment-woocommerce_thumbnail-wrapper">
+    <span class="onsale">Распродажа!</span>
+<img width="500" height="590" src="/app/uploads/2018/12/1-2-500x590.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />  </div>
+  <h2 class="woocommerce-loop-product__title">Классический бизидом</h2><span class="price"><del><span class="woocommerce-Price-amount amount">9 900&nbsp;<span class="woocommerce-Price-currencySymbol">руб.</span></span></del> <ins><span class="woocommerce-Price-amount amount">8 910&nbsp;<span class="woocommerce-Price-currencySymbol">руб.</span></span></ins></span>
+</a><a href="/?add-to-cart=142" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="142" data-product_sku="" aria-label="Добавить &quot;Классический бизидом&quot; в корзину" rel="nofollow">В корзину</a><div class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper">
+	<a href="javascript:void(0)" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after" data-tinv-wl-list="[]" data-tinv-wl-product="142" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow"></a>		<div class="tinvwl-tooltip">Add to Wishlist</div>
+</div>
+</li>
+<li class="product type-product post-175 status-publish last instock product_cat-bizidomiki product_cat-shop product_tag-popular has-post-thumbnail shipping-taxable purchasable product-type-simple">
+  <a href="https://detishop.ru/kub/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">  <div class="attachment-woocommerce_thumbnail-wrapper">
+    <img width="500" height="590" src="/app/uploads/2018/12/kub-1-500x590.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />  </div>
+  <h2 class="woocommerce-loop-product__title">Куб</h2><span class="price"><span class="woocommerce-Price-amount amount">3 900&nbsp;<span class="woocommerce-Price-currencySymbol">руб.</span></span></span>
+</a><a href="/?add-to-cart=175" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="175" data-product_sku="" aria-label="Добавить &quot;Куб&quot; в корзину" rel="nofollow">В корзину</a><div class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper">
+	<a href="javascript:void(0)" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart no-txt  tinvwl-position-after" data-tinv-wl-list="[]" data-tinv-wl-product="175" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow"></a>		<div class="tinvwl-tooltip">Add to Wishlist</div>
+</div>
+</li>
+</ul>
+</div>    </div>
+  </div>
+</section>
+  <section class="front-page__contact-form">
+  <div class="container">
+    <div class="front-page__contact-form-heading">
+      <div class="front-page__contact-form-heading--title">Нужна помощь?</div>
+      <div class="front-page__contact-form-heading--text">Оставьте заявку и наш специалист свяжется с вами в ближайшее время!</div>
+    </div>
+    <div class="front-page__contact-form-form">
+    <div role="form" class="wpcf7" id="wpcf7-f9-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f9-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="9" />
+<input type="hidden" name="_wpcf7_version" value="5.1.1" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f9-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Ваше имя" /></span><br />
+<span class="wpcf7-form-control-wrap tel-271"><input type="tel" name="tel-271" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Номер телефона" /></span><br />
+<input type="submit" value="Получить консультацию" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>    </div>
+  </div>
+</section>
+  <section class="front-page__blog">
+    <div class="container">
+    <h2 class="front-page__blog-header"><a href="/blog">Наш блог</a></h2>
+    <div class="front-page__blog-wrapper">
+                      <div class="front-page__blog-item ">
+          <a class="front-page__blog-item-link" href="https://detishop.ru/derevyannye-konstruktory-dlya-detej/">
+            <div class="front-page__blog-item-content">
+              <time class="front-page__blog-item-date" datetime="2019-04-30T16:00:14+00:00">30.04.2019</time>
+              <h2 class="front-page__blog-item-header">Конструкторы из дерева для развития фантазии ребенка</h2>
+              <div class="front-page__blog-item-excerpt">В конструктор любит играть каждый ребенок. Это не только увлекательное, но и очень ...</div>
+              <div class="front-page__blog-item-more">Подробнее</div>
+            </div>
+          </a>
+        </div>
+                      <div class="front-page__blog-item ">
+          <a class="front-page__blog-item-link" href="https://detishop.ru/nabory-derevyannyh-igrushek/">
+            <div class="front-page__blog-item-content">
+              <time class="front-page__blog-item-date" datetime="2019-04-30T13:00:36+00:00">30.04.2019</time>
+              <h2 class="front-page__blog-item-header">Наборы деревянных игрушек полезных для малыша</h2>
+              <div class="front-page__blog-item-excerpt">Деревянные игрушки – прекрасный вариант для родителей, выбирающих безопасность и экологичность для своего ...</div>
+              <div class="front-page__blog-item-more">Подробнее</div>
+            </div>
+          </a>
+        </div>
+                      <div class="front-page__blog-item ">
+          <a class="front-page__blog-item-link" href="https://detishop.ru/razvivayushchie-igrushki-dlya-devochek/">
+            <div class="front-page__blog-item-content">
+              <time class="front-page__blog-item-date" datetime="2019-04-29T08:08:28+00:00">29.04.2019</time>
+              <h2 class="front-page__blog-item-header">Игрушки для девочек. Деревянные игрушки для развития детей</h2>
+              <div class="front-page__blog-item-excerpt">Ищите подарок на 1 годик для девочки? В нашем магазине Вы найдете подходящий ...</div>
+              <div class="front-page__blog-item-more">Подробнее</div>
+            </div>
+          </a>
+        </div>
+                </div>
+  </div>
+</section>
+  <section class="front-page__reviews">
+  <div class="container">
+    <div class="front-page__reviews-wrapper">
+                  <div class="front-page__reviews-item">
+        <div class="front-page__reviews-item-image" style="background-image: url(/app/uploads/2019/02/BiziBord-115-kopiya-e1549285745152.jpg);"></div>
+        <div class="front-page__reviews-item-name">Мария Неволина</div>
+        <div class="front-page__reviews-item-status">Мама сыночка</div>
+        <div class="front-page__reviews-item-text"><p>Хотим выразить благодарность всей команде Beezy Baby! Такой качественной и яркой реализации деревянной игрушки еще не встречала! Приобрели в подарок на годик Бизидом &#171;Классический&#187; &#8212; это просто кладезь развивающих элементов! Если есть сомнения, берите, не раздумывая! Полностью оправданное соотношение цена/качество! Столько различных игр можно придумать с таким бизибордом &#8212; считать, не пересчитать!</p>
+</div>
+      </div>
+          </div>
+  </div>
+</section>
+  <section class="front-page__mails">
+  <div class="container">
+    <div id="sb_instagram" class="sbi sbi_mob_col_auto sbi_col_1" style="max-width: 640px; width:100%; padding-bottom: 10px; " data-id="" data-num="33" data-res="medium" data-cols="1" data-options='{&quot;sortby&quot;: &quot;none&quot;, &quot;showbio&quot;: &quot;false&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;5&quot;, &quot;disablecache&quot;: &quot;false&quot;, &quot;sbiCacheExists&quot;: &quot;true&quot;, &quot;sbiHeaderCache&quot;: &quot;true&quot;}'><div id="sbi_images" style="padding: 5px;"><div class="sb_instagram_error"><p>Please enter an Access Token on the Instagram Feed plugin Settings page.</p></div></div><div id="sbi_load" class="sbi_hidden"></div></div>    <div role="form" class="wpcf7" id="wpcf7-f114-o2" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f114-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="114" />
+<input type="hidden" name="_wpcf7_version" value="5.1.1" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f114-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<div class="form-heading">Подпишитесь на рассылку</div>
+<div class="form-text">И получайте дополнительные скидки и самую актуальную информацию от нас!</div>
+<p><span class="wpcf7-form-control-wrap email-751"><input type="email" name="email-751" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Введите e-mail" /></span><br />
+<input type="submit" value="Подписаться" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>    <div class="front-page__mails-logos">
+                    <div class="front-page__mails-logos--item" style="background-image: url(/app/uploads/2018/12/logo-1-e1553178378817.png);"></div>
+              <div class="front-page__mails-logos--item" style="background-image: url(/app/uploads/2018/12/logo-2-e1553178386316.png);"></div>
+              <div class="front-page__mails-logos--item" style="background-image: url(/app/uploads/2018/12/logo-3-e1553178398608.png);"></div>
+              <div class="front-page__mails-logos--item" style="background-image: url(/app/uploads/2018/12/logo-4-e1553178407101.png);"></div>
+              <div class="front-page__mails-logos--item" style="background-image: url(/app/uploads/2018/12/logo-5-e1553178416214.png);"></div>
+              <div class="front-page__mails-logos--item" style="background-image: url(/app/uploads/2018/12/logo-6-e1553178424337.png);"></div>
+              <div class="front-page__mails-logos--item" style="background-image: url(/app/uploads/2018/12/logo-7-e1553178432587.png);"></div>
+              <div class="front-page__mails-logos--item" style="background-image: url(/app/uploads/2018/12/logo-8.png);"></div>
+          </div>
+  </div>
+</section>
+                </main>
+  </div>
+</div>
+<footer class="content-info">
+  <div class="container">
+    <div class="footer__nav">
+      <div class="footer__nav-title">Навигация</div>
+                  <ul id="menu-menyu-stranits-v-podvale" class="nav"><li class="active menu-item menu-glavnaya"><a href="https://detishop.ru/" aria-current="page">Главная</a></li>
+<li class="menu-item menu-otzyvy"><a href="https://detishop.ru/otzyvy/">Отзывы</a></li>
+<li class="menu-item menu-katalog"><a href="https://detishop.ru/shop/">Каталог</a></li>
+<li class="menu-item menu-blog"><a href="https://detishop.ru/blog/">Блог</a></li>
+<li class="menu-item menu-o-kompanii"><a href="https://detishop.ru/o-kompanii/">О компании</a></li>
+<li class="menu-item menu-nashi-kontakty"><a href="https://detishop.ru/kontakty/">Наши контакты</a></li>
+</ul>
+            </div>
+    <div class="footer__nav">
+      <div class="footer__nav-title">Полезно</div>
+                  <ul id="menu-vtoroe-menyu-stranits-v-podvale" class="nav"><li class="menu-item menu-kak-sdelat-zakaz"><a href="https://detishop.ru/kak-sdelat-zakaz/">Как сделать заказ</a></li>
+</ul>
+            </div>
+    <div class="footer__nav">
+      <div class="footer__nav-title">Контакты</div>
+      <ul class="nav">
+        <li class="menu-item">
+          <a href="mailto:beezybaby@yandex.ru">beezybaby@yandex.ru</a>
+        </li>
+        <li class="menu-item phone">
+          <a href="tel:8 (991) 914 14 14">8 (991) 914 14 14 (Антон)</a>
+        </li>
+        <li class="menu-item email">
+          г. СПб, пр.Большой Сампсониевский 77/7
+        </li>
+      </ul>
+    </div>
+    <div class="footer__nav footer__nav--socials">
+      <div class="logo"></div>
+      <div class="ip">ИП Качаев А. В.</div>
+      <div class="ogrnip">ОГРНИП 315784700155406</div>
+      <div class="socials-icons">
+        <a class="socials-icons-item vk" target="_blank" href="https://vk.com/beezy_baby"></a>
+        <a class="socials-icons-item fb" target="_blank" href="https://www.facebook.com/beezybab"></a>
+        <a class="socials-icons-item insta" target="_blank" href="https://www.instagram.com/beeezy_baby/"></a>
+      </div>
+    </div>
+  </div>
+  <div class="copyrights">
+    <div class="container">
+      <span>© 2019 Beezybaby. Интернет-магазин по-настоящему интересных игрушек</span>
+      <span><a class="trend_link" href="https://trendspb.ru">Создание сайта</a> - Trendspb</span>
+    </div>
+  </div>
+</footer>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://detishop.ru/wp/wp-admin/admin-ajax.php";
+</script>
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var cm_imgs = {"fileTypeError":"\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435! \u0412\u044b \u043f\u044b\u0442\u0430\u0435\u0442\u0435\u0441\u044c \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u043d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043e\u043d\u043e \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0438\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u043e \u043a \u0432\u0430\u0448\u0435\u043c\u0443 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044e.","fileSizeError":"\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435! \u0412\u044b \u043f\u044b\u0442\u0430\u0435\u0442\u0435\u0441\u044c \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0444\u0430\u0439\u043b. \u041f\u0440\u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0438 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f, \u0444\u0430\u0439\u043b \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0438\u043a\u0440\u0435\u043f\u043b\u0435\u043d! \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0444\u0430\u0439\u043b\u0430:","limitFileSize":"5242880","fileCountError":"<strong>\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435!<\/strong> \u0412\u044b \u043f\u044b\u0442\u0430\u0435\u0442\u0435\u0441\u044c \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432. \u041f\u0440\u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0435 \u043a\u043e\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f, \u0444\u0430\u0439\u043b\u044b \u043d\u0435 \u0431\u0443\u0434\u0443\u0442 \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u044b <br \/>\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439: ","limitFileCount":"3"};
+/* ]]> */
+</script>
+<script src="/app/plugins/comment-images-reloaded/js/cir.min.js?ver=5.1.1"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/detishop.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script src="/app/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script src="/app/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.12"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u043a\u043e\u0440\u0437\u0438\u043d\u044b","cart_url":"https:\/\/detishop.ru\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script src="/app/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.6.2"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_6823751de74f05de0ab884aaeaa9325c","fragment_name":"wc_fragments_6823751de74f05de0ab884aaeaa9325c","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script src="/app/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.6.2"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6Lc315gUAAAAAPG69ucvPMBAyhmN86EzVtRPSgWi&#038;ver=3.0"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tinvwl_add_to_wishlist = {"text_create":"\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0439","text_already_in":"\u0422\u043e\u0432\u0430\u0440 \u0443\u0436\u0435 \u0432 \u0438\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u043c","simple_flow":"","i18n_make_a_selection_text":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u044b \u0442\u043e\u0432\u0430\u0440\u0430 \u043f\u0440\u0435\u0436\u0434\u0435, \u0447\u0435\u043c \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0435\u0433\u043e \u0432 \u0441\u0432\u043e\u0439 \u0441\u043f\u0438\u0441\u043e\u043a \u0436\u0435\u043b\u0430\u043d\u0438\u0439.","tinvwl_break_submit":"\u0422\u043e\u0432\u0430\u0440\u044b \u0438\u043b\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043d\u0435 \u0432\u044b\u0431\u0440\u0430\u043d\u044b.","tinvwl_clipboard":"\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u043e!","allow_parent_variable":""};
+/* ]]> */
+</script>
+<script src="/app/plugins/ti-woocommerce-wishlist/assets/js/public.min.js?ver=1.12.0"></script>
+<script src="/app/themes/trendbuuuzy/dist/scripts/main_229464a7.js"></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey ) {
+
+	var wpcf7recaptcha = {
+		execute: function() {
+			grecaptcha.execute(
+				sitekey,
+				{ action: 'homepage' }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		}
+	};
+
+	grecaptcha.ready( wpcf7recaptcha.execute );
+
+	document.addEventListener( 'wpcf7submit', wpcf7recaptcha.execute, false );
+
+} )( grecaptcha, '6Lc315gUAAAAAPG69ucvPMBAyhmN86EzVtRPSgWi' );
+</script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: detishop.ru @ 2021-09-13 19:16:56 by W3 Total Cache
+-->
